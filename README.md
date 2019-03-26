@@ -1,4 +1,6 @@
 # Olympic_Predictions
+=============================
+
 A STUDY ON THE SUMMER OLYMPIC MEDAL TALLIES FROM THE VIEWPOINT OF ETHNIC AND GEOPOLITICAL REGIONS AND A PREDICTION OF THE NEXT EDITIONS
 
 
@@ -20,10 +22,11 @@ The dataset used by us in this project was from the IOC Research and Reference S
 
 ### Limitations of the Dataset
 
--Due to changing global politics and logistic reasons, country codes, as maintained by the IOC, have changed for some countries over the years
--This means the same countries can have different codes in different editions of the Summer Olympics
--Another shortcoming is that it is not arranged in the format we require it to be in – grouped by geopolitical region
--Thus we had to find a way to group the countries by region and also take care of the obsolete country codes
+*Due to changing global politics and logistic reasons, country codes, as maintained by the IOC, have changed for some countries over the years
+*This means the same countries can have different codes in different editions of the Summer Olympics
+*Another shortcoming is that it is not arranged in the format we require it to be in – grouped by geopolitical region
+
+Thus we had to find a way to group the countries by region and also take care of the obsolete country codes
 
 ### Proposed Solution
 
@@ -100,5 +103,10 @@ Given that the edition predicted was for 2012, comparing the prediction with the
 
 <img width="303" alt="Screenshot 2019-03-18 at 11 06 41 PM" src="https://user-images.githubusercontent.com/45623734/55024357-ae9bc680-5024-11e9-8eba-9767ef5b76c8.png">
 
+### Downloads and Contribution 
+To clone the repository 
+```
+$ git clone https://github.com/muditbhartia/Olympic_Predictions
+```
 
 
