@@ -1,0 +1,43 @@
+Region	Ratio	Type	
+Northern Europe	0.11031298101590559	actual	
+Africa	0.018471010774756286	actual	
+South America	0.053873781426372495	actual	
+North America	0.15751667521806054	actual	
+Middle East	0.2293483837865572	actual	
+Indian Subcontinent	0.0035915854284248334	actual	
+South East Asia	0.007183170856849667	actual	
+Australia	0.07183170856849666	actual	
+Minorities and Others	0.005643919958953309	actual	
+Eastern Europe	0.05233453052847614	actual	
+Western Europe	0.020010261672652643	actual	
+Central America	0.029758850692662903	actual	
+East Asia	0.14982042072857876	actual	
+Central Europe	0.09030271934325294	actual	
+Northern Europe	0.1942	python	
+Africa	0.0119	python	
+South America	0.0335	python	
+North America	0.1832	python	
+Middle East	0.0057	python	
+Indian Subcontinent	0.0142	python	
+South East Asia	0.0033	python	
+Australia	0.0335	python	
+Minorities and Others	0.017	python	
+Eastern Europe	0.04286	python	
+Central Europe	0.1377	python	
+Central America	0.0087	python	
+East Asia	0.0571	python	
+Western Europe	0.2566	python	
+Northern Europe	0.1298	tableau	
+Africa	0.0228	tableau	
+South America	0.0831	tableau	
+North America	0.1613	tableau	
+Middle East	0.0105	tableau	
+Indian Subcontinent	0.0018	tableau	
+South East Asia	0.0069	tableau	
+Australia	0.0791	tableau	
+Minorities and Others	0.0006	tableau	
+Eastern Europe	0.0568	tableau	
+Western Europe	0.2131	tableau	
+Central America	0.0139	tableau	
+East Asia	0.1595	tableau	
+Central Europe	0.1001	tableau	

@@ -1,0 +1,334 @@
+Country Code	Region
+ANT	Central America
+ASA	Central America
+BAH	Central America
+BAR	Central America
+BAD	Central America
+BER	Central America
+BIZ	Central America
+HBR	Central America
+ESA	Central America
+SAL	Central America
+GUA	Central America
+GUT	Central America
+MEX	Central America
+GUI	Central America
+HAI	Central America
+HON	Central America
+JAM	Central America
+NCA	Central America
+NIC	Central America
+NCG	Central America
+PAN	Central America
+PRO	Central America
+PRI	Central America
+PUR	Central America
+BWI	Central America
+TRI	Central America
+WID	Central America
+ARG	South America
+BRA	South America
+SUR	South America
+GUY	South America
+CAY	South America
+CHI	South America
+CIL	South America
+COL	South America
+CRC	South America
+COS	South America
+CUB	South America
+DOM	South America
+PAR	South America
+PER	South America
+ECU	South America
+VEN	South America
+URU	South America
+CAN	North America
+USA	North America
+SUA	North America
+AUS	Australia
+NZL	Australia
+ANZ	Australia
+ALG	Africa
+AGR	Africa
+AGL	Africa
+ANG	Africa
+BDI	Africa
+BEN	Africa
+DAY	Africa
+DAH	Africa
+BUH	Africa
+BSH	Africa
+BOL	Africa
+BOT	Africa
+GHA	Africa
+BUR	Africa
+VOL	Africa
+CAF	Africa
+AFC	Africa
+ZAI	Africa
+NRH	Africa
+CGO	Africa
+CHA	Africa
+CHD	Africa
+CIV	Africa
+IVC	Africa
+DJI	Africa
+CML	Africa
+CMR	Africa
+SLA	Africa
+COD	Africa
+MTN	Africa
+SEL	Africa
+COM	Africa
+RHO	Africa
+ZIM	Africa
+ZAM	Africa
+SLE	Africa
+SEY	Africa
+ERI	Africa
+ETH	Africa
+ETI	Africa
+GAB	Africa
+GAM	Africa
+GEQ	Africa
+UGA	Africa
+TUN	Africa
+KEN	Africa
+TAN	Africa
+LBA	Africa
+LYA	Africa
+LBY	Africa
+LBR	Africa
+SUD	Africa
+LES	Africa
+SSD	Africa
+SOM	Africa
+MAG	Africa
+MAD	Africa
+MAW	Africa
+MLI	Africa
+MOZ	Africa
+NAM	Africa
+NGR	Africa
+NGA	Africa
+NIG	Africa
+RSA	Africa
+SAF	Africa
+RWA	Africa
+SEN	Africa
+SGL	Africa
+AND	Western Europe
+AUT	Western Europe
+BEL	Western Europe
+SAA	Western Europe
+ESP	Western Europe
+SPA	Western Europe
+FRA	Western Europe
+GBR	Western Europe
+GRB	Western Europe
+GBI	Western Europe
+GER	Western Europe
+ALL	Western Europe
+ALE	Western Europe
+IRL	Western Europe
+LIE	Western Europe
+LIC	Western Europe
+LUX	Western Europe
+NED	Western Europe
+OLA	Western Europe
+HOL	Western Europe
+NLD	Western Europe
+PBA	Western Europe
+NET	Western Europe
+POR	Western Europe
+AHO	Western Europe
+EUA	Western Europe
+FRG	Western Europe
+GDR	Western Europe
+ALB	Central Europe
+BLR	Central Europe
+CYP	Central Europe
+CZE	Central Europe
+TCH	Central Europe
+GRE	Central Europe
+HUN	Central Europe
+UNG	Central Europe
+ITA	Central Europe
+KOS	Central Europe
+SVK	Central Europe
+SUI	Central Europe
+SVI	Central Europe
+SWI	Central Europe
+SRB	Central Europe
+POL	Central Europe
+SLO	Central Europe
+SMR	Central Europe
+SMA	Central Europe
+CSL	Central Europe
+CSV	Central Europe
+CZS	Central Europe
+CHE	Central Europe
+ARM	Eastern Europe
+AZE	Eastern Europe
+BUL	Eastern Europe
+CRO	Eastern Europe
+GEO	Eastern Europe
+UKR	Eastern Europe
+TUR	Eastern Europe
+KGZ	Eastern Europe
+MDA	Eastern Europe
+MLD	Eastern Europe
+MKD	Eastern Europe
+ROU	Eastern Europe
+ROM	Eastern Europe
+RUM	Eastern Europe
+BOH	Eastern Europe
+DEN	Northern Europe
+DAN	Northern Europe
+DIN	Northern Europe
+EST	Northern Europe
+FIN	Northern Europe
+ICE	Northern Europe
+ISL	Northern Europe
+SWE	Northern Europe
+SVE	Northern Europe
+SUE	Northern Europe
+LAT	Northern Europe
+LTU	Northern Europe
+LIT	Northern Europe
+MNE	Northern Europe
+NOR	Northern Europe
+RUS	Northern Europe
+EUN	Northern Europe
+RU1	Northern Europe
+SCG	Northern Europe
+YUG	Northern Europe
+JUG	Northern Europe
+YUS	Northern Europe
+URS	Northern Europe
+SOV	Northern Europe
+OAR	Northern Europe
+BRN	Middle East
+YAR	Middle East
+YMD	Middle East
+YEM	Middle East
+RAU	Middle East
+EGY	Middle East
+SYR	Middle East
+UAR	Middle East
+UAE	Middle East
+IRI	Middle East
+IRN	Middle East
+IRA	Middle East
+IRQ	Middle East
+IRK	Middle East
+ISR	Middle East
+TKM	Middle East
+JOR	Middle East
+TJK	Middle East
+KAZ	Middle East
+PLE	Middle East
+QAT	Middle East
+SIR	Middle East
+KSA	Middle East
+ARS	Middle East
+SAU	Middle East
+KUW	Middle East
+LBN	Middle East
+LEB	Middle East
+LIB	Middle East
+MAR	Middle East
+MRC	Middle East
+OMA	Middle East
+AFG	Indian Subcontinent
+BAN	Indian Subcontinent
+BHU	Indian Subcontinent
+CEY	Indian Subcontinent
+SRI	Indian Subcontinent
+IND	Indian Subcontinent
+NEP	Indian Subcontinent
+PAK	Indian Subcontinent
+CHN	East Asia
+PRC	East Asia
+ROC	East Asia
+TPE	East Asia
+UZB	East Asia
+HOK	East Asia
+HKG	East Asia
+RCF	East Asia
+TWN	East Asia
+JPN	East Asia
+JAP	East Asia
+GIA	East Asia
+KOR	East Asia
+COR	East Asia
+MGL	East Asia
+PRK	East Asia
+NKO	East Asia
+CDN	East Asia
+BRU	South East Asia
+CAM	South East Asia
+CAB	South East Asia
+KHM	South East Asia
+NBO	South East Asia
+MAS	South East Asia
+MAL	South East Asia
+BIR	South East Asia
+MYA	South East Asia
+VET	South East Asia
+VNM	South East Asia
+VIE	South East Asia
+INA	South East Asia
+INS	South East Asia
+THA	South East Asia
+LAO	South East Asia
+PHI	South East Asia
+FIL	South East Asia
+PNG	South East Asia
+NGY	South East Asia
+NGU	South East Asia
+SGP	South East Asia
+SIN	South East Asia
+IHO	South East Asia
+ARU	Minorities and Others
+COK	Minorities and Others
+CPV	Minorities and Others
+DMA	Minorities and Others
+VIN	Minorities and Others
+FIJ	Minorities and Others
+FIG	Minorities and Others
+VAN	Minorities and Others
+FSM	Minorities and Others
+GBS	Minorities and Others
+GRN	Minorities and Others
+TTO	Minorities and Others
+GUM	Minorities and Others
+TUV	Minorities and Others
+TOG	Minorities and Others
+TLS	Minorities and Others
+ISV	Minorities and Others
+IVB	Minorities and Others
+IOA	Minorities and Others
+TGA	Minorities and Others
+TON	Minorities and Others
+KIR	Minorities and Others
+SWZ	Minorities and Others
+LCA	Minorities and Others
+STP	Minorities and Others
+MDV	Minorities and Others
+MHL	Minorities and Others
+MLT	Minorities and Others
+MAT	Minorities and Others
+MON	Minorities and Others
+MRI	Minorities and Others
+NRU	Minorities and Others
+PLW	Minorities and Others
+SAM	Minorities and Others
+SKN	Minorities and Others
+SOL	Minorities and Others
+ZZX	Minorities and Others
+IOP	Minorities and Others
+IOC	Minorities and Others
+MIX	Minorities and Others
+ROT	Minorities and Others
