@@ -22,9 +22,11 @@ The dataset used by us in this project was from the IOC Research and Reference S
 
 ### Limitations of the Dataset
 
-*Due to changing global politics and logistic reasons, country codes, as maintained by the IOC, have changed for some countries over the years
-*This means the same countries can have different codes in different editions of the Summer Olympics
-*Another shortcoming is that it is not arranged in the format we require it to be in – grouped by geopolitical region
+1.Due to changing global politics and logistic reasons, country codes, as maintained by the IOC, have changed for some countries over the years
+
+2.This means the same countries can have different codes in different editions of the Summer Olympics
+
+3.Another shortcoming is that it is not arranged in the format we require it to be in – grouped by geopolitical region
 
 Thus we had to find a way to group the countries by region and also take care of the obsolete country codes
 
